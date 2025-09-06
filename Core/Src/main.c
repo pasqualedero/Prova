@@ -95,6 +95,7 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+  String s = "branch from first commit";
   while (1)
   {
     /* USER CODE END WHILE */
