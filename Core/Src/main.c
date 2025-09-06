@@ -95,8 +95,13 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
+<<<<<<< HEAD
   float a = 3.0f;
   float b = 4.0f;
+=======
+  String s = "branch from first commit";
+  String s2 = "branch from second commit";
+>>>>>>> refs/remotes/origin/branchFromFirst
   while (1)
   {
     /* USER CODE END WHILE */
