@@ -96,6 +96,7 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   String s = "branch from first commit";
+  String s2 = "branch from second commit";
   while (1)
   {
     /* USER CODE END WHILE */
