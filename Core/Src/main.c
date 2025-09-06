@@ -96,6 +96,7 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   float a = 3.0f;
+  float b = 4.0f;
   while (1)
   {
     /* USER CODE END WHILE */
